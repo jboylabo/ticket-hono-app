@@ -1,0 +1,2 @@
+export const formatDateTime = (iso: string) =>
+  new Intl.DateTimeFormat('ja-JP', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(iso))
