@@ -1,7 +1,7 @@
 # TicketLock — チケット予約 × 行ロック学習アプリ
 
 Hono + Drizzle + PostgreSQL 17 / TanStack Start + Mantine で作った、ローカル専用のチケット予約アプリ。
-DB設計は `docs/sql.md` を参照してください。
+DB設計は `docs/sql.md`、ER図は `docs/er.md` を参照してください。
 
 ## 起動
 ```bash
